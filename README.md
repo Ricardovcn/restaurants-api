@@ -80,7 +80,7 @@ Implemented pagination to the get restaurants endpoint.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo.git
+   git clone https://github.com/Ricardovcn/restaurants-api
 3. Checkout the branch you want to work on:
    - For Level 1: `main`
    - For Level 2: `level_2_bran`
