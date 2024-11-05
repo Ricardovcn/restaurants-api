@@ -1,6 +1,6 @@
-# Restaurant Menu System Challenge
+# Restaurant Menu System
 
-This repository contains a solution to the **Restaurant Menu System Challenge**, built in three progressive levels.
+This repository contains a **Restaurant Menu System**, built in three progressive levels.
 The application is developed using Ruby on Rails.
 
 ## Levels Overview
